@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to bottom right, #ff4184ae 20%, #531aff94 40%, #41d3ffae 70%);
+}
+.heading{
+    background-color:rgba(232, 75, 164, 0.772);
+    font-size: 30px;
+    border: 2px solid rgb(96, 13, 80);
+    border-radius: 15px;
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: black;
+
+}
+#camera{
+    border: 2px dotted rgb(212, 67, 67);
+    width: 350px;
+    height: 350px;
+}
